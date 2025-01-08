@@ -5,11 +5,15 @@
 🎓 Education:
 
 Studied Management Information Systems for 2 years.
+
 Switched to Computer Science because I love logical thinking and problem-solving.
+
 💻 Skills & Interests:
 
 -Passionate about Web Development and Java programming.
+
 -Certified in Digital Marketing by Google.
+
 -Completed Responsive Web Design from freeCodeCamp.
 
 🚀 Goals:
