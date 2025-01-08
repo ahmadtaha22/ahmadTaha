@@ -1,5 +1,7 @@
 👋 Hi, I’m Ahmad!
+
 🌍 From: Lebanon
+
 🎓 Education:
 
 Studied Management Information Systems for 2 years.
